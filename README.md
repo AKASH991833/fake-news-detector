@@ -48,3 +48,9 @@ python3 -m http.server 8000
 ```
 
 Built by [Akash Vishwakarma](https://github.com/AKASH991833). Free to use — no sign-up, no card.
+
+
+## Stacks
+
+- **Live demo (this repo root):** HTML/CSS/JS — on-device text-pattern model with disclosed accuracy.
+- **Python pipeline (`ml/`):** scikit-learn TF-IDF + LogisticRegression with full holdout + 5-fold CV metrics, trainable on larger JSONL corpora. See `ml/README.md`.

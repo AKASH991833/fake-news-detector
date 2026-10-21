@@ -1,0 +1,22 @@
+{
+  "data": "corpus.jsonl",
+  "samples": 123,
+  "positive_rate": 0.5040650406504065,
+  "pipeline": "TfidfVectorizer(word 1-2gram, min_df=2, sublinear) + LogisticRegression(C=2, balanced)",
+  "holdout": {
+    "accuracy": 0.92,
+    "precision": 0.9231,
+    "recall": 0.9231,
+    "f1": 0.9231
+  },
+  "cv5_accuracy": {
+    "mean": 0.9343,
+    "std": 0.0424
+  },
+  "cv5_f1": {
+    "mean": 0.9311,
+    "std": 0.0449
+  },
+  "vocab_size": 173,
+  "note": "Text-pattern model: flags writing style, not truth. Always verify claims against primary sources."
+}
