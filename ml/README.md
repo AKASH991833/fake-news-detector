@@ -1,5 +1,8 @@
 # Python/NLP version (scikit-learn)
 
+> Part of **[fake-news-detector](https://github.com/AKASH991833/fake-news-detector)** — live browser demo: https://akash991833.github.io/fake-news-detector/ · screenshots in the repo-root `screenshots/` folder.
+
+
 The Pages demo runs a compact model fully in your browser. This folder is the
 proper training pipeline with a larger vocabulary, character-aware options,
 and full holdout + cross-validation reporting.
